@@ -1,8 +1,6 @@
 # Personal Blog
 ## Todo:
-- [ ] Planning the project project
-- [ ] Adding URLS & views
-- [ ] setting up environment & project
+
 - [ ] Adding first Template
 - [ ] Template content and static files
 - [ ] Adding images as static files
@@ -18,7 +16,8 @@
 ## Completed 
 
 - [x] setting up environment & project
-
+- [x] Planning the project project
+- [x] Adding URLS & views
 
 
 
